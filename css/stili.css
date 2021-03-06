@@ -1,0 +1,64 @@
+body{
+text-align: center;
+margin:auto;
+}
+
+select{
+	margin-bottom: 6%;
+}
+
+#sfondo{
+margin:auto;
+border:solid;
+border-width:1px;
+border-color:#e9e9e9;
+border-radius:5px;
+background-color:#e9e9e9;
+counter-reset: fieldsets;
+padding:2%;
+width: 400px;	
+}
+
+.heavy { 
+		font: italic 20px serif;
+		fill: purple;
+		}
+		
+svg{
+			margin-bottom:8%;
+			margin-top:-4%;
+	}
+
+	
+label{
+	margin-right:2%;
+	}
+	
+button{
+	margin-right:2%;
+	}
+	
+
+
+
+.tasto {
+            background-color: #a5cff3 ;
+            color: #175c97;
+            font-size: 22pt;
+            border: none;
+            margin: 4px 2px;
+            height: 40px;
+	    width: 46px;
+        }
+.display {
+            background: none;
+            color: #175c97;
+            font-size: 24pt;
+            border: #175c97 solid 2px;
+            margin: 4px 2px;
+            width: 204px;
+            height: 40px;            
+        }
+.uguale {
+            width: 208px;
+        }
